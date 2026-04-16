@@ -23,9 +23,9 @@ Custom dataset trained using Roboflow
    pip install -r requirements.txt
 3. Run:
    python app.py
+output:
+<img width="1366" height="768" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/795553a6-37ee-4cac-a9f1-b615867e38b2" />
 
-## 📸 Output
-(Add screenshots here)
 
 ## 👩‍💻 Author
-Your Name
+Hemavarshini S
